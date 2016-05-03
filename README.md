@@ -1,6 +1,7 @@
 # Twitter-Scripts
 
-// Script: Unfollow everyone who doesn't follow me back
+**Script: Unfollow everyone who doesn't follow me back**
+
 // Usage: 
 // 1. Go to https://twitter.com/following
 // 2. Scroll down
