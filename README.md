@@ -7,7 +7,7 @@
 Usage: 
 
 - Go to https://twitter.com/following
- - Scroll down
+- Scroll down
 - Open console and paste the below script
 
 ```
