@@ -11,7 +11,7 @@ Usage:
 - Open console and paste the below script
 
 ```
-$(".ProfileCard-content:not(:contains('follows you'))").each(function(index) { $(this).find('.user-actions-follow-button').click(); });
+$(".ProfileCard-content:not(:contains('follows you'))").each(function(index) { $(this).find('.unfollow-text').click(); });
 ```
 
 - Wait until the script finishes. 
