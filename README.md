@@ -7,9 +7,7 @@
 Usage: 
 
 - Go to https://twitter.com/following
- 
-- Scroll down
- 
+ - Scroll down
 - Open console and paste the below script
 
 ```
@@ -17,5 +15,4 @@ $(".ProfileCard-content:not(:contains('follows you'))").each(function(index) { $
 ```
 
 - Wait until the script finishes. 
-
-IMPORTANT: If you want to repeat the process then refresh the page (otherwise the script will refollow everyone once you run it again).
+- IMPORTANT: If you want to repeat the process then refresh the page (otherwise the script will refollow everyone once you run it again).
